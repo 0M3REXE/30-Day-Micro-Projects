@@ -1,7 +1,7 @@
-# 30-Day Micro Projects
-Welcome to my 30 Day Micro Projects Challenge! 
+# 30 Micro Projects
+Welcome to my 30 Micro Projects Challenge! 
 
-This repository is a collection of small-scale projects I've created to enhance my programming and cybersecurity skills. Each project aims to help me progressively develop my abilities.
+This repository is a collection of 30 small-scale projects I've created to enhance my programming and cybersecurity skills. Each project aims to help me progressively develop my abilities.
 
 ## Projects
 1. Password Generator: Create a tool that generates secure passwords.
